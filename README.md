@@ -1,2 +1,2 @@
-# React-Learnings
+# React_JS
 React Concepts 
